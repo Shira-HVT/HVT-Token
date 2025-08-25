@@ -1,5 +1,17 @@
 Harvest Token (HVT) – Binance Smart Chain BEP20 Contract
 
+## Audit & Community Review
+
+🔍 Harvest Token (HVT) smart contract is **open-source** and available for community review.  
+We invite developers and auditors to analyze our code and share feedback.  
+
+- Verified contract on BscScan  
+- Source code published on GitHub  
+- Community audit: Ongoing  
+- Mini audit: Planned (Coinsult / InterFi)  
+
+👉 If you review our code, feel free to open an **Issue** or **Pull Request** in this repository, or share your report with the team.
+
 **Contract Address:**  
 [0xFB9fd2331e92ee528752d5b4827C7A647d353524](https://bscscan.com/address/0xFB9fd2331e92ee528752d5b4827C7A647d353524#code)
 
