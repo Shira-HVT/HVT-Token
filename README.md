@@ -71,11 +71,11 @@ Phase 6 – Buyback & Burn (After Farm Revenues)
 - PinkSale & Initial LP → 5%  
 - Mid-tier CEX Listings → 10%  
 - Staking Pools → 10%  
-- Top-tier CEX Listings → 10%  
+- Top-tier CEX Listings → 20%  
 - Real-World Investments → 25% (6 months vesting planned)
 - Team & Development → 15% (12 months locked + 6 months vesting planned)  
-- Marketing & Partnerships → 10%  
-- Reserve → 15% (%10 Reserve 12 month vesting planned)  
+- Marketing & Partnerships → 5%  
+- Reserve → 10% (%5 Reserve 12 month vesting planned)  
 
 ---
 
